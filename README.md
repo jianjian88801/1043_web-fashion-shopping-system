@@ -82,45 +82,45 @@
 
 商品评价管理
 
-![输入图片说明](images59af272eef42e1f88bc9b506e5c75a9.png)
+![输入图片说明](images/59af272eef42e1f88bc9b506e5c75a9.png)
 
 系统管理
 
-![输入图片说明](images9b226a1d63a1151f6e5395ab88f8a34.png)
+![输入图片说明](images/9b226a1d63a1151f6e5395ab88f8a34.png)
 
 订单管理
 
-![输入图片说明](images8b3b0047910a75ac7ee02897457f3c5.png)
+![输入图片说明](images/8b3b0047910a75ac7ee02897457f3c5.png)
 
 二、用户端
 
 注册
 
-![输入图片说明](imagesee87f00b03e34cf2fbef92d740a2670.png)
+![输入图片说明](images/ee87f00b03e34cf2fbef92d740a2670.png)
 
 首页
 
-![输入图片说明](images830cc125f75775917584beadc5b8d13.png)
+![输入图片说明](images/830cc125f75775917584beadc5b8d13.png)
 
 商品信息
 
-![输入图片说明](images8effb38981de5fda87a3ec640986a07.png)
+![输入图片说明](images/8effb38981de5fda87a3ec640986a07.png)
 
 商品资讯
 
-![输入图片说明](images5b827d94e6f20a0942d67cc78129fb3.png)
+![输入图片说明](images/5b827d94e6f20a0942d67cc78129fb3.png)
 
 个人中心
 
-![输入图片说明](images6c0270a3d1cae2154919bf0d021ebaf.png)
+![输入图片说明](images/6c0270a3d1cae2154919bf0d021ebaf.png)
 
 购物车
 
-![输入图片说明](images3e18d74ea80c7a762ad8bcd711e3b0f.png)
+![输入图片说明](images/3e18d74ea80c7a762ad8bcd711e3b0f.png)
 
 客服
 
-![输入图片说明](imagesc9803f7f53c174217cb736f9532d9bc.png)
+![输入图片说明](images/c9803f7f53c174217cb736f9532d9bc.png)
 
 
 #### 总结
