@@ -50,35 +50,35 @@
 #### 系统功能截图
 
 代码结构和数据库
-![输入图片说明](images1314e54a0d8c9fc2e3325ca3cb53278.png)
+![输入图片说明](images/1314e54a0d8c9fc2e3325ca3cb53278.png)
 
-![输入图片说明](images5e9b35699ed528d8335e0686e3c0540.png)
+![输入图片说明](images/5e9b35699ed528d8335e0686e3c0540.png)
 
 一、管理端
 
 登录
 
-![输入图片说明](images365fac96c661bb2f64e2ff75f5f4c87.png)
+![输入图片说明](images/365fac96c661bb2f64e2ff75f5f4c87.png)
 
 首页
 
-![输入图片说明](images7294b78c983f79d21b1046086e4561b.png)
+![输入图片说明](images/7294b78c983f79d21b1046086e4561b.png)
 
 用户管理
 
-![输入图片说明](images3c5b6f9e09d623108e543f3980b9c4d.png)
+![输入图片说明](images/3c5b6f9e09d623108e543f3980b9c4d.png)
 
 商品分类管理
 
-![输入图片说明](images91b2f167823913c39535f7fa70add6d.png)
+![输入图片说明](images/91b2f167823913c39535f7fa70add6d.png)
 
 颜色管理
 
-![输入图片说明](images92de40d9313e89212a0092adb41278c.png)
+![输入图片说明](images/92de40d9313e89212a0092adb41278c.png)
 
 商品信息管理
 
-![输入图片说明](images0843fcb5f298e046fb90fb7f42226e3.png)
+![输入图片说明](images/0843fcb5f298e046fb90fb7f42226e3.png)
 
 商品评价管理
 
